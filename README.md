@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @programmer-for-me
+- 👋 Hi, I’m Sarvarbek Sayfitdinov
 - 👀 I’m interested in football
 - 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on hackaton project
