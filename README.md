@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sarvarbek Sayfitdinov
 - 👀 I’m interested in football
-- 🌱 I’m currently learning php
+- 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on hackaton project
 - 📫 How to reach me programmer.for.me@gmail.com
 
